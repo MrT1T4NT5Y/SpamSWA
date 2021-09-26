@@ -1,0 +1,2 @@
+# SpamSWA
+Script untuk SpamWA
